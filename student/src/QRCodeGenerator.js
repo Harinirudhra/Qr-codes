@@ -40,7 +40,7 @@ function QRCodeGenerator() {
 
   return (
     <div className="qr-generator-container">
-      <h2>Generate QR Code</h2>
+      <h2>Generates QR Code</h2>
       <div>
         <label>
           Name:
