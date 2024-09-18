@@ -51,7 +51,7 @@ function QRCodeGenerator() {
           <input type="text" value={rollNumber} onChange={(e) => setRollNumber(e.target.value)} />
         </label>
         <label>
-          Department:
+          Departments:
           <input type="text" value={department} onChange={(e) => setDepartment(e.target.value)} />
         </label>
         <label>
