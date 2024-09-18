@@ -43,7 +43,7 @@ function QRCodeGenerator() {
       <h2>Generates QR Code</h2>
       <div>
         <label>
-          Name:
+          Names:
           <input type="text" value={name} onChange={(e) => setName(e.target.value)} />
         </label>
         <label>
